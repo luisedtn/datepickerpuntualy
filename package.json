@@ -1,12 +1,12 @@
 {
   "name": "ion-datepickerpuntualy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A date picker for ionic",
   "main": "index.js",
   "author": "Misha Tarnorutksy <misha130@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/misha130/ion-datepicker"
+    "url": "https://github.com/luisedtn/datepickerpuntualy.git"
   },
   "keywords": [
     "datepicker-ionic3",
